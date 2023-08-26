@@ -70,8 +70,13 @@ h1  {
 .inputs1 {
     background-color: tan;
     text-align: right;
-    width: 400px;
+    width: 420px;
     margin: 0 auto;
+}
+
+.inputs1 label {
+    background-color: tan;
+    font-size: 1.3em;
 }
 
 input {
